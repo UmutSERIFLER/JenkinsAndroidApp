@@ -12,13 +12,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    @Test
+
     public void subscription_isCorrect() throws Exception{
         //We intentionally made the string null
 
         String myName = null;
 
-        assertNull(myName);
+
 
     }
 
